@@ -1,4 +1,4 @@
-package com.miempresa.microservice_demo.controller;
+package com.miempresa.microservice_demo.service;
 
 import com.miempresa.microservice_demo.model.UserDTO; // <-- usar DTO correcto
 import com.miempresa.microservice_demo.entity.UserEntity;
